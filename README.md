@@ -1,15 +1,15 @@
-# ChurnPredictX 🚀
+# ChurnPredictX 
 
 **A machine learning-powered telecom churn prediction system using the Kaggle Telco dataset.**
 
-## 📌 Overview  
+## Overview  
 ChurnPredictX predicts whether a telecom customer will churn based on factors like **tenure, monthly charges, contract type, online security, and more**. It leverages **Exploratory Data Analysis (EDA)** and a **Decision Tree Classifier** for accurate and interpretable predictions. Since **acquisition costs exceed retention**, this project helps businesses minimize customer churn.
 
 ## Glimpse   
 ![ChurnPredictX UI](https://github.com/user-attachments/assets/7bfd5648-ff9f-4d49-8354-c894cb7ec1ac)
 
 
-## 📊 Dataset  
+## Dataset  
 - **Source:** [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 - **Features Used:**  
   - Demographics (Gender, Senior Citizen, Partner, Dependents)  
@@ -18,18 +18,18 @@ ChurnPredictX predicts whether a telecom customer will churn based on factors li
   - Financials (Monthly Charges, Total Charges)  
   - **Target Variable:** Churn (Yes/No)  
 
-## 🏗️ Tech Stack  
+##  Tech Stack  
 - **Backend:** Flask  
 - **Frontend:** HTML, CSS  
 - **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
 
-## ⚙️ Features  
+##  Features  
 ✔ **Interactive UI** for user input (Flask-based)  
 ✔ **Real-time churn prediction** using trained ML model  
 ✔ **Feature importance analysis** to explain predictions  
 ✔ **Customizable and scalable** for real-world telecom businesses  
 
-## 🚀 Installation & Usage  
+## Installation & Usage  
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/ChurnPredictX.git
