@@ -1,6 +1,6 @@
 # ChurnPredictX 
 
-**A machine learning-powered telecom churn prediction system using the Kaggle Telco dataset.**
+**A machine learning-powered telecom churn prediction system .**
 ChurnPredictX—a savior for telecom industries where customer churn threatens profits. In today's scenario, acquisition costs are much higher than retention, making it crucial to predict churn early. Built on the Kaggle Telco dataset, it predicts whether a customer is likely to churn or stay, enabling businesses to act before it’s too late. Because in this game, retaining customers isn’t just strategy , it’s survival.
 
 ## Overview  
