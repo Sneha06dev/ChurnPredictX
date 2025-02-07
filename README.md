@@ -49,18 +49,15 @@ ChurnPredictX predicts whether a telecom customer will churn based on factors li
 ![Watch ChurnPredictX](https://github.com/user-attachments/assets/7b455c33-6a08-48df-a027-f042abb59e17)
 
 
-## 📈 Model Performance  
+## Model Performance  
 - **Algorithm Used:** Decision Tree Classifier  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score  
 - **Feature Importance:** Contract type, tenure, monthly charges are key indicators of churn  
 
-## 🎯 Future Improvements  
+## Future Improvements  
 - Implement advanced models like **Random Forest, XGBoost** for better accuracy  
 - Add **SHAP values** for deeper model interpretability  
 - Deploy on **Heroku/Render** for public access  
 
-## 🤝 Contribution  
+##  Contribution  
 Feel free to fork the repo, raise issues, and submit pull requests.  
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
