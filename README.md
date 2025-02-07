@@ -5,7 +5,8 @@
 ## 📌 Overview  
 ChurnPredictX predicts whether a telecom customer will churn based on factors like **tenure, monthly charges, contract type, online security, and more**. It leverages **Exploratory Data Analysis (EDA)** and a **Decision Tree Classifier** for accurate and interpretable predictions. Since **acquisition costs exceed retention**, this project helps businesses minimize customer churn.
 
-![ChurnPredictX](https://github.com/user-attachments/assets/7b455c33-6a08-48df-a027-f042abb59e17)
+## Click Here to Watch
+[![Watch ChurnPredictX](https://github.com/user-attachments/assets/7b455c33-6a08-48df-a027-f042abb59e17)
 
 ## 📊 Dataset  
 - **Source:** [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
@@ -44,7 +45,7 @@ ChurnPredictX predicts whether a telecom customer will churn based on factors li
 4. Open in browser: `http://127.0.0.1:5000`  
 
 ## Glimpse   
-![ChurnPredictX UI]![Image](https://github.com/user-attachments/assets/7bfd5648-ff9f-4d49-8354-c894cb7ec1ac)
+![ChurnPredictX UI](https://github.com/user-attachments/assets/7bfd5648-ff9f-4d49-8354-c894cb7ec1ac)
 
 ## 📈 Model Performance  
 - **Algorithm Used:** Decision Tree Classifier  
